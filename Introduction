@@ -1,0 +1,25 @@
+# Typing Speed Test Website
+
+This is a simple web-based typing speed test application built using **HTML**, **CSS**, and **JavaScript**.
+
+## 🚀 Features
+
+- Random quotes for typing practice
+- Real-time accuracy calculation
+- WPM (Words Per Minute) speed tracking
+- Reset and Start buttons
+
+## 🛠️ How to Use
+
+1. Click on the **Start** button to load a random quote.
+2. Type the text in the textarea below.
+3. View your speed and accuracy in real-time.
+4. Click **Reset** to start over.
+
+## 🌐 Live Demo
+
+You can host it using **GitHub Pages** or any static site host.
+
+---
+
+> Made with ❤️ by Suraj Tiwari
